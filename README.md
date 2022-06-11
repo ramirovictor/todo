@@ -1,7 +1,7 @@
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
-
+It's a simple to-do list project
 
 You can find the backend application code at [TodoBackend](https://github.com/ramirovictor/TodoBackEnd)
 
